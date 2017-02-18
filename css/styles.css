@@ -104,8 +104,7 @@ figcaption {
 }
 
 .profile {
-	color: #fff;
-	background: #3acec2;
+	color: #c7c7c7;
 	padding: 3.2em 0;
 	margin-bottom: 60px;
 }
@@ -148,9 +147,13 @@ figcaption {
 
 	.name {
 	    font-size: 1.25em;
-	    margin: 0;
 	    text-align: center;
 	}
+
+	ul {
+		list-style-type: none;
+	}
+
 }
 
 
