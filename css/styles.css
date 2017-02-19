@@ -30,10 +30,13 @@ a {
 	text-transform: uppercase;
 }
 
-h1, h2, h3, h4, .name a, .main-nav a, .tag, .main-footer a {
+h1, h2, h3, h4, .name a, .tag, .main-footer a {
 	color: #5CC8FF;
 }
 
+.main-nav a {
+	color: #000;
+}
 h1, .name {
 	font-size: 2rem;
 }
@@ -201,13 +204,6 @@ img {
 	color: #082d77;
 }
 
-
-.contact-icon {
-	height: 30px;
-	margin-right: 15px;
-}
-
-
 /* Footer */
 
 .main-footer {
@@ -314,7 +310,7 @@ img {
 		width: 50%;
 		padding: 10px;
 		margin-bottom: 5em;
-		background: #fff;
+		background: #FFF;
 	}
 
 
